@@ -1,0 +1,5 @@
+frmAlphaBlend = 110, 110, 611, 554, C, 0, 0, 366, 438, C
+mdlMSImg32 = 66, 66, 567, 510, C
+frmTransparentBlt = 0, 0, 0, 0, C, 44, 44, 308, 426, C
+frmGradientFill = 44, 44, 586, 585, C, 22, 22, 376, 384, C
+frmMain = 176, 176, 677, 620, C, 0, 0, 365, 271, C
